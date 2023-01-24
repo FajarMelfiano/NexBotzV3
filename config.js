@@ -25,12 +25,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://www.instagram.com/fajarmelfiano/'
+global.syt = 'KAMU NANYAK?'
+global.sgh = 'ADA SE TAPI MALES AE'
+global.sgc = 'MALES NGGAWE GRUP'
+global.swa = 'wa.me/6285748839210'
+global.swb = 'GOLEK I DEWE, MANDIRI! '
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -42,11 +42,11 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '62895417352673'
+global.nomorown = '6285748839210'
+global.nomorown1 = '6285748839210'
+global.namebot = 'MT-Botz'
+global.nameown = 'Melfiano'
 
 
 /*============== STAFF ==============*/
@@ -54,7 +54,7 @@ global.owner = [
   ['6288221354110'],
   ['6283891677178'],
   ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6285748839210', 'Melfiano', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,14 +104,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By MT-Botz' //Main Watermark
+global.wm2 = 'Melfiano'
+global.wm3 = 'MT-BotZ | By Melfiano'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.titlebot = `MT-Botz | ʙʏ ${global.nameown}`
+global.author = 'Melfiano' 
+global.packname = 'Melfiano'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Juli 11 2022'
 
